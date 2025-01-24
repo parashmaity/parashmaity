@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on:  [Project Easter](https://github.com/Project-Easter/Flutter-UI)
 - 👯 I’m looking to collaborate on: [Project Easter](https://github.com/Project-Easter/Flutter-UI)
-- 💬 Ask me about: **Java, NodeJs, Android, MongoDB, SQL, Docker, Kubernetes**
+- 💬 Ask me about: **[Java](https://www.java.com), [NodeJs](https://nodejs.org), [Android](https://developer.android.com), [MongoDB](https://www.mongodb.com), [SQL](https://developer.mozilla.org/en-US/docs/Glossary/SQL), [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io)**
 - 📫 How to reach me: **maityparash@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/XXXXXXXXXXXXXXXXXXXXXXXX?usp=sharing)
 - ⚡ Fun fact: **I love to code the design**
