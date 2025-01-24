@@ -10,12 +10,13 @@
 - ⚡ Fun fact: **I love to code the design**
 <br>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parashmaity&show_icons=true&include_all_commits=true&theme=blue-green" alt="Parash's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&layout=compact&theme=blue-green" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parashmaity&show_icons=true&theme=blue-green" alt="Parash's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&layout=compact&theme=blue-green" /></a> |
 | ------------- | ------------- |
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=parashmaity&show_icons=true&theme=blue-green" /> | 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&show_icons=true&theme=blue-green" /> | 
-| ------------- | ------------- |
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&show_icons=true&theme=blue-green" /> |
+  | ------------- | ------------- |
+  
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
