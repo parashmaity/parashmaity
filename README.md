@@ -10,6 +10,9 @@
 - ⚡ Fun fact: **I love to code the design**
 <br>
 
+| <a href="https://github.com/parashmaity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parashmaity&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/parashmaity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 |
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=parashmaity&show_icons=true&theme=blue-green" /> |
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&show_icons=true&theme=blue-green" /> |
