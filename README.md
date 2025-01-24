@@ -12,7 +12,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parashmaity&show_icons=true&theme=blue-green" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&show_icons=true&theme=blue-green" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashmaity&show_icons=true&theme=blue-green" />
 </p>
 <br>
 
