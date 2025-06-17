@@ -8,8 +8,6 @@
 - 🔭 **Working on:** [BakeMyWeb.com](https://www.bakemyweb.com)
 - 👨‍💻 **Building:** [FleareDB](https://github.com/FleareDb/Fleare) — A personal passion project!
 
----
-
 ### 💬 Tech I Love
 
 Java • Node.js • GoLang • MongoDB • SQL • Docker • Kubernetes  
@@ -17,6 +15,13 @@ _(Click to learn more!)_
 [Java](https://www.java.com) • [NodeJs](https://nodejs.org) • [GoLang](https://go.dev/) • [MongoDB](https://www.mongodb.com) • [SQL](https://developer.mozilla.org/en-US/docs/Glossary/SQL) • [Docker](https://www.docker.com) • [Kubernetes](https://kubernetes.io)
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParashMaity&show_icons=true&theme=transparent" alt="Parash's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParashMaity&theme=transparent" alt="GitHub Streak" height="165" />
+</p>
 
 ### 🛠️ Languages & Tools
 
@@ -52,15 +57,6 @@ _(Click to learn more!)_
 ### ⚡ Fun Fact
 
 **I love to code and problem solve** — bridging logic and aesthetics!
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParashMaity&show_icons=true&theme=transparent" alt="Parash's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParashMaity&theme=transparent" alt="GitHub Streak" height="165" />
-</p>
 
 ---
 
