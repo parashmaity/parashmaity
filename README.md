@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Parash Maity</h1>
 <h3 align="center">🚀 Aspiring Software Engineer from India</h3>
 
----
-
 ### 🔧 Current Focus
 
 - 🔭 **Working on:** [BakeMyWeb.com](https://www.bakemyweb.com)
