@@ -4,7 +4,7 @@
 ### 🔧 Current Focus
 
 - 🔭 **Working on:** [BakeMyWeb.com](https://www.bakemyweb.com)
-- 👨‍💻 **Building:** [FleareDB](https://github.com/FleareDb/Fleare) — A personal passion project!
+- 👨‍💻 **Building:** [FleareDB](https://github.com/extendsware/Fleare) — A personal passion project!
 
 ### 💬 Tech I Love
 
